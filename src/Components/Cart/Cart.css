@@ -1,0 +1,27 @@
+.quantity-change{
+    display:flex;
+    justify-content: space-between;
+}
+.scroll{
+    height: 100vh;
+overflow: scroll;
+}
+
+.square{
+    border:0px solid black;
+    font-weight: bold;
+    font-size: 1.4em;
+}
+.column{
+     /* background-color: rgb(243, 236, 227); */
+border:1px solid black;
+    margin:10px;
+}
+.left.floated{
+    float:left;
+    padding:5px;
+}
+.right.floated{
+    float:right;
+    padding:5px;
+}
